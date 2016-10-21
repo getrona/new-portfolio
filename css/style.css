@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: lightgray;
 
 }
 
@@ -25,6 +25,11 @@ h3, h2 {
 .circle {
   background-position: center;
   border-radius: 50%;
+  float: left;
+}
+
+.well {
+  float: right;
 }
 
 .auto {
